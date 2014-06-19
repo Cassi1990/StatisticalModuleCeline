@@ -1,0 +1,9 @@
+ArrayDataFile	SourceName	FactorValue	Person	Time	Treatment	Tissue
+GSM286763.CEL.gz	c_24h_rep2	control_24h	1	24	control	human
+GSM286765.CEL.gz	t_24h_rep1	treated_24h	1	24	treated	human
+GSM286759.CEL.gz	t_12h_rep1	treated_12h	2	12	treated	human
+GSM286760.CEL.gz	t_12h_rep2	treated_12h	2	12	treated	human
+GSM286756.CEL.gz	c_12h_rep1	control_12h	3	12	control	human
+GSM286757.CEL.gz	c_12h_rep2	control_12h	3	12	control	human
+GSM286762.CEL.gz	c_24h_rep1	control_24h	4	24	control	human
+GSM286766.CEL.gz	t_24h_rep2	treated_24h	4	24	treated	human
